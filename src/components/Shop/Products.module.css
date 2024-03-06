@@ -1,4 +1,5 @@
-.products h1 {
+.products span {
+  color: #42f5da;
   margin: 2rem auto;
   text-align: center;
 }
