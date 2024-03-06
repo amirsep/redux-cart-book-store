@@ -37,6 +37,7 @@ const DUMMY_PRODUCTS = [
 
 const Products = (props) => {
   return (
+    <>
     <section className={classes.products}>
       <h2>Buy your favorite products</h2>
       <ul>
@@ -55,6 +56,7 @@ const Products = (props) => {
     </section>
   <p> Made by ❤️ - Mohammad Amir | Frontend Developer </p>
   );
+</>
 };
 
 export default Products;
