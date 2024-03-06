@@ -38,7 +38,7 @@ const DUMMY_PRODUCTS = [
 const Products = (props) => {
   return (
     <section className={classes.products}>
-     <h1>Made by ❤️ - Mohammad Amir | Frontend Developer</h1>
+     <span>Made by ❤️ - Mohammad Amir | Frontend Developer </span>
       <h2>Buy your favorite products</h2>
       <ul>
         {DUMMY_PRODUCTS.map((product) => {
