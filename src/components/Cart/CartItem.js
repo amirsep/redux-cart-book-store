@@ -30,7 +30,7 @@ const CartItem = (props) => {
       </header>
       <div className={classes.details}>
         <div className={classes.quantity}>
-           <span>{quantity}</span>
+        Quantity: <span>{quantity}</span>
         </div>
         <div className={classes.actions}>
           <button onClick={removeItemHandler}>-</button>
