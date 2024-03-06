@@ -54,7 +54,7 @@ const Products = (props) => {
         })}
       </ul>
     </section>
-  <b> Made by ❤️ - Mohammad Amir | Frontend Developer </b>
+  <div className="createby"> Made by ❤️ - Mohammad Amir | Frontend Developer </div>
 </>
   );
 };
