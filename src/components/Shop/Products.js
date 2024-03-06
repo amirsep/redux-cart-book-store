@@ -38,7 +38,6 @@ const DUMMY_PRODUCTS = [
 const Products = (props) => {
   return (
     <section className={classes.products}>
-     <strong> Made by ❤️ - Mohammad Amir | Frontend Developer </strong>
       <h2>Buy your favorite products</h2>
       <ul>
         {DUMMY_PRODUCTS.map((product) => {
@@ -54,6 +53,7 @@ const Products = (props) => {
         })}
       </ul>
     </section>
+  <p> Made by ❤️ - Mohammad Amir | Frontend Developer </p>
   );
 };
 
