@@ -55,7 +55,7 @@ const Products = (props) => {
       </ul>
     </section>
     <div className={classes.develop}>
-       <h5> Made by ❤️ - Mohammad Amir | Frontend Developer </h5>
+       <h3> Made by ❤️ - Mohammad Amir | Frontend Developer </h3>
     </div >
 </>
   );
