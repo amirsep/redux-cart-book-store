@@ -54,9 +54,9 @@ const Products = (props) => {
         })}
       </ul>
     </section>
-        <div className={classes.develop}>
-  <h5 > Made by ❤️ - Mohammad Amir | Frontend Developer </h5>
-        </div >
+    <div className={classes.develop}>
+       <h5> Made by ❤️ - Mohammad Amir | Frontend Developer </h5>
+    </div >
 </>
   );
 };
