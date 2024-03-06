@@ -55,8 +55,8 @@ const Products = (props) => {
       </ul>
     </section>
   <p> Made by ❤️ - Mohammad Amir | Frontend Developer </p>
-  );
 </>
+  );
 };
 
 export default Products;
