@@ -29,8 +29,6 @@ const ProductItem = (props) => {
           <button onClick={addToCartHandler}>Add to Cart</button>
         </div>
       </Card>
-      <hr/>
-      <div>  Made by ❤️ - Mohammad Amir | Frontend Developer </div>
     </li>
   );
 };
