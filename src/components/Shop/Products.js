@@ -14,6 +14,25 @@ const DUMMY_PRODUCTS = [
     title: "My Second Book",
     description: "The second book I ever Wrote",
   },
+    {
+    id: "p3",
+    price: 8,
+    title: "My Third Book",
+    description: "The Third book I ever Wrote",
+  },
+    {
+    id: "p4",
+    price: 15,
+    title: "My Fourth Book",
+    description: "The Fourth book I ever Wrote",
+  },
+    {
+    id: "p5",
+    price: 25,
+    title: "My Fifth Book",
+    description: "The Fifth book I ever Wrote",
+  },
+   
 ];
 
 const Products = (props) => {
